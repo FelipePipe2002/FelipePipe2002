@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A Systems Engineering student from Argentina</h3>
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=felipepipe2002&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=4&column=4&theme=onedark&margin-w=10&margin-h=10" alt="felipepipe2002" />
-    </a> 
-</p>
-
 <p align="center"> 📫 How to reach me felipemanuel20111@gmail.com </p>
 
 <h3 align="center">Languages and Tools</h3>
