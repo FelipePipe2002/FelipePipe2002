@@ -36,5 +36,4 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipepipe2002&show_icons=true&theme=dark&locale=en&layout=compact" alt="felipepipe2002" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipepipe2002&show_icons=true&theme=dark&locale=en" alt="felipepipe2002" />
 </div>
